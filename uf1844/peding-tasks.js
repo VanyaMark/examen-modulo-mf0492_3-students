@@ -1,6 +1,6 @@
 
 function filterPendingTaks(tasks) {
-  const pendingTasksArr = tasks.filter(task => task.completed === false)
+  const pendingTasksArr = tasks.filter(task => !task.completed)
 
   return pendingTasksArr
 }
