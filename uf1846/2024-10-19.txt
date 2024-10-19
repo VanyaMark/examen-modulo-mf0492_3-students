@@ -1,0 +1,3 @@
+Se ha realizado una consulta sobre un paciente en la base de datos
+Se ha realizado una consulta sobre un paciente en la base de datos
+Se ha realizado una consulta sobre un paciente número 45678901210
